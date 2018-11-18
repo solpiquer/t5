@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RockMusicBand</string>
+    <string name="txt_codigo">Codigo de la Banda</string>
+    <string name="txt_nombre">Nombre de la Banda</string>
+    <string name="txt_genero">Genero de la Banda</string>
+    <string name="txt_descripcion">Descripcion de la Banda</string>
+    <string name="BotonRegistrar">Registrar Banda</string>
+    <string name="BotonBuscar">Buscar Banda</string>
+    <string name="BotonEliminar">Eliminar Banda</string>
+    <string name="BotonModificar">Modificar Banda</string>
+</resources>
